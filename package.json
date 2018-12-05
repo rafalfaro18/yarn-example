@@ -6,5 +6,8 @@
   "repository": "https://github.com/rafalfaro18/yarn-example.git",
   "author": "Rafael Alfaro <rafalfaro_18@outlook.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
