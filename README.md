@@ -1,6 +1,10 @@
 # yarn-example
 Yarn example project
 
+### Requirements
+- NodeJS
+- Yarn
+
 ### Instructions
 
 1. On the terminal inside the project directory run:
