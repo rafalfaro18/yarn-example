@@ -1,0 +1,10 @@
+{
+  "name": "yarn-example",
+  "version": "1.0.0",
+  "description": "A yarn example project",
+  "main": "index.js",
+  "repository": "https://github.com/rafalfaro18/yarn-example.git",
+  "author": "Rafael Alfaro <rafalfaro_18@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
